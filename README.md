@@ -1,6 +1,6 @@
 <h1>ChatGPT3 WebUI React Project</h1>
 <p>This project is a web user interface for ChatGPT3, built using React. It provides an interactive and user-friendly platform for users to interact with the GPT-3 model and explore its features.<p>
-<img src="BiyonVenuja/chatgpt3-webui-react" alt="">
+<img src="https://github.com/BiyonVenuja/ChatGPT3-WebUI-React/blob/main/react_FS.png" alt="">
 
 <h3>Table of Contents</h3>
 <ul>
